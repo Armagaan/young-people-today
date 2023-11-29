@@ -7,14 +7,10 @@
 In 2013, students of the Statistics class at FSEV UK were asked to invite their friends to
 participate in this survey.
 
-- The data file (responses.csv) consists of 1010 rows and 150 columns (139
-integer and 11 categorical).
-- For convenience, the original variable names were shortened in the
-data file. See the columns.csv file if you want to match the data with the original names.
+- The data file, `data/responses.csv`, consists of 1010 rows and 150 columns (139 integer and 11 categorical).
+- For convenience, the original variable names were shortened in the data file. See the `data/columns.csv` file if you want to match the data with the original names.
 - The data contain missing values.
-- The survey was presented to participants in both electronic and written form.
-The original questionnaire was in Slovak language and was later translated
-into English.
+- The survey was presented to participants in both electronic and written form. The original questionnaire was in Slovak language and was later translated into English.
 - All participants were of Slovakian nationality, aged between 15-30.
 
 The variables can be split into the following groups:
@@ -26,6 +22,9 @@ The variables can be split into the following groups:
 - Personality traits, views on life, & opinions (57 items)
 - Spending habits (7 items)
 - Demographics (10 items)
+
+# Presentation
+Please refer to `YoungPeopleToday.pdf` for a detailed review of the study findings and key takeaways.
 
 # Environment
 ```bash
